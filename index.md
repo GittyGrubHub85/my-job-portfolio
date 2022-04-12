@@ -13,7 +13,7 @@ Here are my files that were simply written by HTML.
 
 Frog Jumper
 
-This application is trying to calculate how happy hops can a frog hop based on the number range with the given number (3rd argument)
+This application is trying to calculate how many hops can a frog hop based on the number range with the given number (3rd argument)
 ```
 import java.math.*;
 
