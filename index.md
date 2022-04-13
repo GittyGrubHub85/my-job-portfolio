@@ -1,21 +1,22 @@
-## Welcome to my Portfolio
+### The repository is currently on the [gh-pages](https://github.com/GittyGrubHub85/my-job-portfolio/tree/gh-pages) branch
+# Welcome to my Portfolio
 
 Here you can see my collection of projects that I've made over the past years.
 
-### HTML
+## HTML
 
 Here are my files that were simply written by HTML.
 
 1. [Website 6](https://gittygrubhub85.github.io/my-job-portfolio/HTML/my-website-6/)
 2. [Website 7](https://gittygrubhub85.github.io/my-job-portfolio/HTML/my-website-7/)
 
-### Javascript
+## Javascript
 
 Here are my files written in Javascript.
 
 1. [Project 1](https://gittygrubhub85.github.io/my-job-portfolio/Javascript/Unnamed-System/)
 
-### Java
+## Java
 
 Frog Jumper
 
